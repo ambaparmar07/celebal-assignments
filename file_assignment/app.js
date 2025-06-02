@@ -1,3 +1,4 @@
+//manual code
 // const fs = require('fs');
 // const path = require('path');
 
@@ -26,6 +27,7 @@
 //     console.error('Error deleting file:', err.message);
 // }
 
+//by commands
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
